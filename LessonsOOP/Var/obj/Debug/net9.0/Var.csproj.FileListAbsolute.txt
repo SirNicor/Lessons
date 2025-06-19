@@ -1,0 +1,15 @@
+D:\LessonsRep\Lessons\LessonsOOP\Var\bin\Debug\net9.0\Var.exe
+D:\LessonsRep\Lessons\LessonsOOP\Var\bin\Debug\net9.0\Var.deps.json
+D:\LessonsRep\Lessons\LessonsOOP\Var\bin\Debug\net9.0\Var.runtimeconfig.json
+D:\LessonsRep\Lessons\LessonsOOP\Var\bin\Debug\net9.0\Var.dll
+D:\LessonsRep\Lessons\LessonsOOP\Var\bin\Debug\net9.0\Var.pdb
+D:\LessonsRep\Lessons\LessonsOOP\Var\obj\Debug\net9.0\Var.GeneratedMSBuildEditorConfig.editorconfig
+D:\LessonsRep\Lessons\LessonsOOP\Var\obj\Debug\net9.0\Var.AssemblyInfoInputs.cache
+D:\LessonsRep\Lessons\LessonsOOP\Var\obj\Debug\net9.0\Var.AssemblyInfo.cs
+D:\LessonsRep\Lessons\LessonsOOP\Var\obj\Debug\net9.0\Var.csproj.CoreCompileInputs.cache
+D:\LessonsRep\Lessons\LessonsOOP\Var\obj\Debug\net9.0\Var.sourcelink.json
+D:\LessonsRep\Lessons\LessonsOOP\Var\obj\Debug\net9.0\Var.dll
+D:\LessonsRep\Lessons\LessonsOOP\Var\obj\Debug\net9.0\refint\Var.dll
+D:\LessonsRep\Lessons\LessonsOOP\Var\obj\Debug\net9.0\Var.pdb
+D:\LessonsRep\Lessons\LessonsOOP\Var\obj\Debug\net9.0\Var.genruntimeconfig.cache
+D:\LessonsRep\Lessons\LessonsOOP\Var\obj\Debug\net9.0\ref\Var.dll
