@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Var")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Enum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+507e15124fe7e56dcc12b541d1dc5c3cd1a16bfb")]
-[assembly: System.Reflection.AssemblyProductAttribute("Var")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Var")]
+[assembly: System.Reflection.AssemblyProductAttribute("Enum")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Enum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

@@ -1,0 +1,15 @@
+D:\LessonsRep\Lessons\LessonsOOP\Enum\bin\Debug\net9.0\Enum.exe
+D:\LessonsRep\Lessons\LessonsOOP\Enum\bin\Debug\net9.0\Enum.deps.json
+D:\LessonsRep\Lessons\LessonsOOP\Enum\bin\Debug\net9.0\Enum.runtimeconfig.json
+D:\LessonsRep\Lessons\LessonsOOP\Enum\bin\Debug\net9.0\Enum.dll
+D:\LessonsRep\Lessons\LessonsOOP\Enum\bin\Debug\net9.0\Enum.pdb
+D:\LessonsRep\Lessons\LessonsOOP\Enum\obj\Debug\net9.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\LessonsRep\Lessons\LessonsOOP\Enum\obj\Debug\net9.0\Enum.AssemblyInfoInputs.cache
+D:\LessonsRep\Lessons\LessonsOOP\Enum\obj\Debug\net9.0\Enum.AssemblyInfo.cs
+D:\LessonsRep\Lessons\LessonsOOP\Enum\obj\Debug\net9.0\Enum.csproj.CoreCompileInputs.cache
+D:\LessonsRep\Lessons\LessonsOOP\Enum\obj\Debug\net9.0\Enum.sourcelink.json
+D:\LessonsRep\Lessons\LessonsOOP\Enum\obj\Debug\net9.0\Enum.dll
+D:\LessonsRep\Lessons\LessonsOOP\Enum\obj\Debug\net9.0\refint\Enum.dll
+D:\LessonsRep\Lessons\LessonsOOP\Enum\obj\Debug\net9.0\Enum.pdb
+D:\LessonsRep\Lessons\LessonsOOP\Enum\obj\Debug\net9.0\Enum.genruntimeconfig.cache
+D:\LessonsRep\Lessons\LessonsOOP\Enum\obj\Debug\net9.0\ref\Enum.dll
