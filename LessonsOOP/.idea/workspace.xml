@@ -8,21 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84e5b5f1-266b-4a72-a36e-e34345cc67a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../var/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../var/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../var/obj/Debug/net9.0/var.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../var/obj/Debug/net9.0/var.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../var/obj/Debug/net9.0/var.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../var/obj/Debug/net9.0/var.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../var/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../var/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../var/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../var/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../var/obj/var.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../var/obj/var.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../var/obj/var.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../var/var.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LessonsOOP/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,29 +21,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2ykIb54xNXM86dOMWjMNznj7y1M" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.Var.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.Var.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Var" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -90,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1750372213990</updated>
-      <workItem from="1750372215385" duration="601000" />
+      <workItem from="1750372215385" duration="1596000" />
     </task>
     <servers />
   </component>
@@ -116,19 +102,6 @@
           <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="3" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Var/Program.cs</url>
-          <line>9</line>
-          <properties documentPath="D:\LessonsRep\Lessons\LessonsOOP\Var\Program.cs" containingFunctionPresentation="Method 'Main'">
-            <startOffsets>
-              <option value="219" />
-            </startOffsets>
-            <endOffsets>
-              <option value="252" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
