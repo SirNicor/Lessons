@@ -55,6 +55,9 @@
             Point1 point1 = new Point1();
             point1.x = 10;//point1.y невозможно обратиться, т.к. private
             point1.PrintPoint();//point1.PrintX невозможно обратиться, т.к. private
+            Gun gun1 = new Gun();
+            gun1.Shoot();
+            gun1.Shoot();
         }
     }
 }

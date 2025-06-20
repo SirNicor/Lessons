@@ -1,0 +1,15 @@
+D:\LessonsRep\Lessons\LessonsOOP\OOPstudy\bin\Debug\net9.0\OOPstudy.exe
+D:\LessonsRep\Lessons\LessonsOOP\OOPstudy\bin\Debug\net9.0\OOPstudy.deps.json
+D:\LessonsRep\Lessons\LessonsOOP\OOPstudy\bin\Debug\net9.0\OOPstudy.runtimeconfig.json
+D:\LessonsRep\Lessons\LessonsOOP\OOPstudy\bin\Debug\net9.0\OOPstudy.dll
+D:\LessonsRep\Lessons\LessonsOOP\OOPstudy\bin\Debug\net9.0\OOPstudy.pdb
+D:\LessonsRep\Lessons\LessonsOOP\OOPstudy\obj\Debug\net9.0\OOPstudy.GeneratedMSBuildEditorConfig.editorconfig
+D:\LessonsRep\Lessons\LessonsOOP\OOPstudy\obj\Debug\net9.0\OOPstudy.AssemblyInfoInputs.cache
+D:\LessonsRep\Lessons\LessonsOOP\OOPstudy\obj\Debug\net9.0\OOPstudy.AssemblyInfo.cs
+D:\LessonsRep\Lessons\LessonsOOP\OOPstudy\obj\Debug\net9.0\OOPstudy.csproj.CoreCompileInputs.cache
+D:\LessonsRep\Lessons\LessonsOOP\OOPstudy\obj\Debug\net9.0\OOPstudy.sourcelink.json
+D:\LessonsRep\Lessons\LessonsOOP\OOPstudy\obj\Debug\net9.0\OOPstudy.dll
+D:\LessonsRep\Lessons\LessonsOOP\OOPstudy\obj\Debug\net9.0\refint\OOPstudy.dll
+D:\LessonsRep\Lessons\LessonsOOP\OOPstudy\obj\Debug\net9.0\OOPstudy.pdb
+D:\LessonsRep\Lessons\LessonsOOP\OOPstudy\obj\Debug\net9.0\OOPstudy.genruntimeconfig.cache
+D:\LessonsRep\Lessons\LessonsOOP\OOPstudy\obj\Debug\net9.0\ref\OOPstudy.dll

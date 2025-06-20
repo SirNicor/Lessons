@@ -10,21 +10,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84e5b5f1-266b-4a72-a36e-e34345cc67a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP/Point1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPstudy/Gun.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPstudy/OOPstudy.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOP.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOP.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.exe" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/ref/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/ref/OOP.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/refint/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/refint/OOP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/OOP.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Point1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/Point1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Student.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/Student.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/bin/Debug/net9.0/OOP.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.exe" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/bin/Debug/net9.0/OOP.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/bin/Debug/net9.0/OOP.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOP.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOP.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOP.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOP.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOP.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOP.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOP.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/bin/Debug/net9.0/OOPstudy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOP.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/bin/Debug/net9.0/OOPstudy.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOP.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/ref/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/ref/OOP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/refint/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/refint/OOP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/OOP.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/OOP.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/OOP.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/OOP.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/OOP.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/OOP.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +62,10 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/ILViewer/10c126fec9db4d98be906ec806f066b326908/24/9fd1c214/0200001A.il" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/10c126fec9db4d98be906ec806f066b326908/b7/27fd1b7b/ConsoleKeyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Enum/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OOPstudy/Gun.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OOPstudy/Point1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OOPstudy/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OOPstudy/Student.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -105,7 +130,7 @@
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="AUTO_ATTACH_CHILDREN" value="0" />
       <option name="MIXED_MODE_DEBUG" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/OOP/OOP.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/OOPstudy/OOPstudy.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
