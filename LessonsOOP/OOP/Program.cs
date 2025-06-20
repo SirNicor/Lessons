@@ -51,6 +51,10 @@
             var s2 = new Student();
             s2.WriteStudent();
             Console.WriteLine("FullName = " + s1.GetFullName());
+            
+            Point1 point1 = new Point1();
+            point1.x = 10;//point1.y невозможно обратиться, т.к. private
+            point1.PrintPoint();//point1.PrintX невозможно обратиться, т.к. private
         }
     }
 }
