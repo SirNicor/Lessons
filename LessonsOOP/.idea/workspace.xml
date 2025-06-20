@@ -9,7 +9,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84e5b5f1-266b-4a72-a36e-e34345cc67a4" name="Changes" comment="" />
+    <list default="true" id="84e5b5f1-266b-4a72-a36e-e34345cc67a4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.exe" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/ref/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/ref/OOP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/refint/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/refint/OOP.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +38,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/ILViewer/10c126fec9db4d98be906ec806f066b326908/24/9fd1c214/0200001A.il" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/10c126fec9db4d98be906ec806f066b326908/b7/27fd1b7b/ConsoleKeyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Enum/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -33,23 +48,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.Enum.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Var.executor&quot;: &quot;Debug&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.Enum.executor": "Run",
+    ".NET Project.OOP.cs.executor": "Run",
+    ".NET Project.OOP.executor": "Run",
+    ".NET Project.Var.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected=".NET Project.Enum">
+}]]></component>
+  <component name="RunManager" selected=".NET Project.OOP.cs">
     <configuration name="Enum" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -73,7 +90,7 @@
         <option name="Build" />
       </method>
     </configuration>
-    <configuration name="OOP" type="DotNetProject" factoryName=".NET Project">
+    <configuration name="OOP.cs" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -90,7 +107,7 @@
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_KIND" value="Unloaded" />
       <option name="PROJECT_TFM" value="" />
       <method v="2">
         <option name="Build" />
@@ -128,6 +145,7 @@
       <option name="presentableId" value="Default" />
       <updated>1750372213990</updated>
       <workItem from="1750372215385" duration="5062000" />
+      <workItem from="1750415058326" duration="3565000" />
     </task>
     <servers />
   </component>
