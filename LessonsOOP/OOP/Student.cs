@@ -8,4 +8,19 @@ public class Student
         public string middleName;
         public int age;
         public string group;
+
+        public void WriteStudent()
+        {
+             Console.WriteLine($"Student ID: {id}");
+             Console.WriteLine($"First Name: {FirstName}");
+             Console.WriteLine($"Last Name: {LastName}");
+             Console.WriteLine($"Middle Name: {middleName}");
+             Console.WriteLine($"Age: {age}");
+             Console.WriteLine($"Group: {group}");
+        }
+
+        public string GetFullName()
+        {
+            return  $"{FirstName} {LastName} {middleName}";
+        }
 }

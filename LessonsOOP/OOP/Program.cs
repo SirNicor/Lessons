@@ -45,6 +45,13 @@
             Console.WriteLine(p1.GetHashCode());
             Student s1 = GetStudent();
             PrintStudent(s1);
+            Console.WriteLine("--");
+            s1.WriteStudent(); //использования метода класса
+            Console.WriteLine("default: ");
+            var s2 = new Student();
+            s2.WriteStudent();
+            Console.WriteLine("FullName = " + s1.GetFullName());
         }
     }
 }
+    

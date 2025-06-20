@@ -12,6 +12,7 @@
     <list default="true" id="84e5b5f1-266b-4a72-a36e-e34345cc67a4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Student.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Student.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.exe" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.pdb" afterDir="false" />
@@ -145,7 +146,7 @@
       <option name="presentableId" value="Default" />
       <updated>1750372213990</updated>
       <workItem from="1750372215385" duration="5062000" />
-      <workItem from="1750415058326" duration="3565000" />
+      <workItem from="1750415058326" duration="5400000" />
     </task>
     <servers />
   </component>
