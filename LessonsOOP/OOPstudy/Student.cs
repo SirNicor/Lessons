@@ -32,15 +32,15 @@ public class Student1
     {
         FirstName = firstName;
         LastName = lastName;
-        this.middleName = middleName;
+        this.middleName = middleName; //this используется везде, где возникает ситуации с одинаково названными переменными
         this.age = age;
         this.group = group;
     }
     public Student1(string lastName, int age, string group)
     {
         LastName = lastName;
-        this.age = age;
-        this.group = group;
+        this.age = age; //внутри конкретного экземпляра
+        this.group = group; 
     }
 
     public Student1(Student1 student)

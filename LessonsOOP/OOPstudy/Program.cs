@@ -75,6 +75,7 @@
             Student1_2.WriteStudent();
             Console.WriteLine("student1_3 = student1_1:");
             Student1_3.WriteStudent();
+            //this не работает в статический методах 
         }
     }
 }
