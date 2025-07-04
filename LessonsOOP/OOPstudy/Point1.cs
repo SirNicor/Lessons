@@ -20,3 +20,19 @@ public class Point1
         PrintY();
     }
 }
+
+public class Point2
+{
+    public Point2()
+    {
+        
+    }
+    private int _x;
+    private int _y;
+
+    public void Print()
+    {
+        Console.WriteLine($"x = {_x}");
+        Console.WriteLine($"y = {_y}");
+    }
+}
