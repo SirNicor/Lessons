@@ -75,7 +75,18 @@
             Student1_2.WriteStudent();
             Console.WriteLine("student1_3 = student1_1:");
             Student1_3.WriteStudent();
-            //this не работает в статический методах 
+            //this не работает в статический методах  
+            PointXY PointX1 =  new PointXY();
+            PointX1.SetX(43);
+            Console.WriteLine(PointX1.GetX());
+            PointX1.SetX(-1);
+            Console.WriteLine(PointX1.GetX());
+            PointX1.SetX(45);
+            Console.WriteLine(PointX1.GetX());
+            PointX1.Prop = 50;
+            Console.WriteLine(PointX1.Prop);
+            PointX1.Z = 60; 
+            Console.WriteLine(PointX1.Z);
         }
     }
 }

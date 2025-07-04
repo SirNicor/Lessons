@@ -19,6 +19,8 @@ public class Point1
         PrintX();
         PrintY();
     }
+    
+    
 }
 
 public class Point2
@@ -41,4 +43,41 @@ public class Point2
         Console.WriteLine($"x = {_x}");
         Console.WriteLine($"y = {_y}");
     }
+}
+
+public class PointXY
+{
+    private int x;
+    private int y;
+    public void SetX(int x) //setter
+    { 
+        if(x<1) //пример использования сеттара в связи с инкапсуляцией 
+            this.x = 1; 
+        else if (x > 44)
+            this.x = 44;
+        else
+            this.x = x;
+        return;
+    }
+
+    public int GetX() //getter
+    {
+        return x;
+    }
+
+    public int Prop
+    {
+        get { return y; }
+        set
+        {
+            if (value > 44)
+                y = 44;
+            else if (value < 1)
+                y = 1;
+            else
+                y = value;
+        }
+    }
+
+    public int Z { get; set; } //prop
 }
