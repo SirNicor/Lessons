@@ -58,6 +58,23 @@
             Gun gun1 = new Gun();
             gun1.Shoot();
             gun1.Shoot();
+            Point2 p2_0 = new Point2(10, 15);
+            Point2 p2_1 = new Point2(10, 15);
+            p2_0.Print();
+            p2_1.Print();
+            Student1 Student1_0 = new Student1("1", 2, "3");
+            Student1 Student1_1 = new Student1("1", "2", "3", 4, "5");
+            Student1_0.WriteStudent();
+            Student1_1.WriteStudent();
+            Student1 Student1_2 = new Student1(Student1_1); //создание новой области памяти в куче, идентичной предыдущей, и ссылки на нее
+            Student1 Student1_3 = Student1_1; //ссылка на те же данные в куче
+            Student1_1.SetLastName("#####");
+            Console.WriteLine("student1_1:");
+            Student1_1.WriteStudent();
+            Console.WriteLine("student1_2 = new Student(student1_1:)");
+            Student1_2.WriteStudent();
+            Console.WriteLine("student1_3 = student1_1:");
+            Student1_3.WriteStudent();
         }
     }
 }

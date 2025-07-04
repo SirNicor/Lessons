@@ -23,9 +23,15 @@ public class Point1
 
 public class Point2
 {
-    public Point2()
+    public Point2(int x, int y)
     {
-        
+        _x = x;
+        _y = y;
+    }
+    //если написать собственный метод конструктора класса, то метод по умолчанию будет удален
+    public Point2() //перегрузка метода
+    {
+        _x = _y = 1;
     }
     private int _x;
     private int _y;
