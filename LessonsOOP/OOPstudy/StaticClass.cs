@@ -79,3 +79,14 @@ class Static2
         Console.WriteLine("Prov");
     }
 }
+
+static class StaticClass1 //нельзя создать объект класса
+{
+    public static void StaticBlock()
+    {
+        Console.WriteLine("StaticBlock");
+    }
+    //все методы и поля должны быть статичными в статичном классе
+    //this использовать нельзя, только для extension methods
+    //утилитарные классы, группировка плюс минус похожих функций
+}

@@ -109,6 +109,7 @@
             Console.WriteLine(MyClass.SetGet);
             
             Static2.Prov();
+            StaticClass1.StaticBlock();
         }
     }
 }
