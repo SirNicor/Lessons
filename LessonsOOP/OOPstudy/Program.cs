@@ -87,6 +87,18 @@
             Console.WriteLine(PointX1.Prop);
             PointX1.Z = 60; 
             Console.WriteLine(PointX1.Z);
+            
+            StaticClass MyClass1 = new  StaticClass();
+            MyClass1.a = 44;
+            StaticClass MyClass2 = new  StaticClass();
+            MyClass2.a = 22;
+            StaticClass.b = 23;
+            Console.WriteLine("а_1: " + MyClass1.a +  " a_2: " + MyClass2.a);
+            MyClass1.Printb();
+            MyClass2.Printb();
+            MyClass2.SetB(34);
+            MyClass1.Printb();
+            MyClass2.Printb();
         }
     }
 }
