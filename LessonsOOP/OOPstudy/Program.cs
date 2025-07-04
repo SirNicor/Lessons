@@ -104,9 +104,11 @@
             Console.WriteLine(MyClass.SetGet);
             for (int i = 0; i < 100; ++i)
             {
-                MyClass myclass = new MyClass();
+                new MyClass();
             }
             Console.WriteLine(MyClass.SetGet);
+            
+            Static2.Prov();
         }
     }
 }

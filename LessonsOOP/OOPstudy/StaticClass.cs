@@ -4,6 +4,15 @@ namespace LessonsOOP;
 
 public class StaticClass
 {
+    public StaticClass()
+    {
+        Console.WriteLine("Constructor");
+    }
+
+    static StaticClass() //нет смысла от модификаторов доступа, только один
+    { //выполняется только один раз
+        Console.WriteLine("StaticConstructor");
+    }
     public int a;
     public static int b; //общая область памяти для всех экземпляров класса
     private static int c;
@@ -50,5 +59,23 @@ class MyClass
     {
         get { return counter;}
         private set { counter = value; } //сохранение принципа инкапсуляции, невозможно изменить counter с внешней стороны
+    }
+}
+
+class Static2
+{
+    public Static2()
+    {
+        Console.WriteLine("Constructor2");
+    }
+
+    static Static2() 
+    { 
+        Console.WriteLine("StaticConstructor2"); //вызывается при любом взаимодействии с классом(даже без создания объекта)
+    } //будет вызван лишь один раз
+
+    public static void Prov()
+    {
+        Console.WriteLine("Prov");
     }
 }
