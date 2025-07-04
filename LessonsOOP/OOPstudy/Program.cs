@@ -99,6 +99,14 @@
             MyClass2.SetB(34);
             MyClass1.Printb();
             MyClass2.Printb();
+            MyClass1.two();
+            StaticClass.one();
+            Console.WriteLine(MyClass.SetGet);
+            for (int i = 0; i < 100; ++i)
+            {
+                MyClass myclass = new MyClass();
+            }
+            Console.WriteLine(MyClass.SetGet);
         }
     }
 }
