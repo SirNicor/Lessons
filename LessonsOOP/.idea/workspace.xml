@@ -10,42 +10,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84e5b5f1-266b-4a72-a36e-e34345cc67a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OOPstudy/Gun.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPstudy/OOPstudy.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOP.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOP.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LessonsOOP/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LessonsOOP/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/OOP.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/Point1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/Point1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/Student.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/Student.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/bin/Debug/net9.0/OOP.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.exe" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/bin/Debug/net9.0/OOP.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/bin/Debug/net9.0/OOP.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/bin/Debug/net9.0/OOP.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOP.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOP.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOP.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOP.GlobalUsings.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOP.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOP.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOP.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/bin/Debug/net9.0/OOPstudy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOP.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/bin/Debug/net9.0/OOPstudy.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/OOP.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOP.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/ref/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/ref/OOP.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net9.0/refint/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/refint/OOP.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/OOP.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/OOP.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/OOP.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/OOP.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/OOP.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/OOP.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/obj/Debug/net9.0/Enum.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/obj/Debug/net9.0/Enum.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/obj/Debug/net9.0/Enum.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/obj/Debug/net9.0/Enum.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPstudy/bin/Debug/net9.0/OOPstudy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/bin/Debug/net9.0/OOPstudy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPstudy/bin/Debug/net9.0/OOPstudy.exe" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/bin/Debug/net9.0/OOPstudy.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPstudy/bin/Debug/net9.0/OOPstudy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/bin/Debug/net9.0/OOPstudy.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOPstudy.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOPstudy.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOPstudy.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOPstudy.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOPstudy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOPstudy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOPstudy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOPstudy.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOPstudy.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/OOPstudy.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/ref/OOPstudy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/ref/OOPstudy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/refint/OOPstudy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOPstudy/obj/Debug/net9.0/refint/OOPstudy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Var/obj/Debug/net9.0/Var.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Var/obj/Debug/net9.0/Var.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Var/obj/Debug/net9.0/Var.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Var/obj/Debug/net9.0/Var.AssemblyInfoInputs.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +36,13 @@
   <component name="DpaMonitoringSettings">
     <option name="firstShow" value="false" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -63,7 +51,7 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/10c126fec9db4d98be906ec806f066b326908/b7/27fd1b7b/ConsoleKeyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Enum/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OOPstudy/Gun.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OOPstudy/Point1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OOPstudy/Point1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OOPstudy/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OOPstudy/Student.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -75,25 +63,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.Enum.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.OOP.cs.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.OOP.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Var.executor&quot;: &quot;Debug&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.Enum.executor": "Run",
+    ".NET Project.OOP.cs.executor": "Run",
+    ".NET Project.OOP.executor": "Run",
+    ".NET Project.OOPstudy.executor": "Run",
+    ".NET Project.Var.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/LessonsRep/Lessons/LessonsOOP",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.appearance",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected=".NET Project.OOP.cs">
+}]]></component>
+  <component name="RunManager" selected=".NET Project.OOPstudy">
     <configuration name="Enum" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -108,29 +99,6 @@
       <option name="AUTO_ATTACH_CHILDREN" value="0" />
       <option name="MIXED_MODE_DEBUG" value="0" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/Enum/Enum.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <configuration name="OOP.cs" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="ENV_FILE_PATHS" value="" />
-      <option name="REDIRECT_INPUT_PATH" value="" />
-      <option name="PTY_MODE" value="Auto" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="AUTO_ATTACH_CHILDREN" value="0" />
-      <option name="MIXED_MODE_DEBUG" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/OOPstudy/OOPstudy.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -163,6 +131,11 @@
         <option name="Build" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue=".NET Project.Enum" />
+      <item itemvalue=".NET Project.OOPstudy" />
+      <item itemvalue=".NET Project.Var" />
+    </list>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -173,6 +146,8 @@
       <updated>1750372213990</updated>
       <workItem from="1750372215385" duration="5062000" />
       <workItem from="1750415058326" duration="5400000" />
+      <workItem from="1751623765312" duration="44000" />
+      <workItem from="1751623926679" duration="174000" />
     </task>
     <servers />
   </component>
