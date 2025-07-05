@@ -165,6 +165,12 @@
             Student3_0.Learn();
             Person3 Student3_1 = new Student3();//все равно тип person3
             Student3_1.PrintName(); 
+            
+            Point3d p3d_1 = new Point3d(); //2 вывода, оба конструктора вызываются, родительский и дочерний
+            //сначало родительский конструктор, затем дочерний
+            p3d_1.Print();
+            Point3d p3d_2 = new Point3d(12, 12, 14);
+            p3d_2.Print();
         }
     }
 }
