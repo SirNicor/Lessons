@@ -110,6 +110,12 @@
             
             Static2.Prov();
             StaticClass1.StaticBlock();
+            
+            
+            DateTime currentDate = DateTime.Now;
+            currentDate.Print();
+            Console.WriteLine(currentDate.IsDayIsWeek(DayOfWeek.Friday));
+            Console.WriteLine(currentDate.IsDayIsWeek(DayOfWeek.Monday));
         }
     }
 }
