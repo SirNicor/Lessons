@@ -116,6 +116,9 @@
             currentDate.Print();
             Console.WriteLine(currentDate.IsDayIsWeek(DayOfWeek.Friday));
             Console.WriteLine(currentDate.IsDayIsWeek(DayOfWeek.Monday));
+
+            Person person1 = new Person("And", "Two");
+            person1.Print();
         }
     }
 }
