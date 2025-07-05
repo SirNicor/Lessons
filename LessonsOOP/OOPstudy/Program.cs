@@ -122,6 +122,41 @@
             
             ReadOnlyClass ROC1 = new ReadOnlyClass(33);
             ROC1.Method();
+            
+            Cat cat1 = new Cat {age = 3, Name = "Roc"};//используется по умолчанию конструктор по умолчанию
+            cat1.Print();
+            Person2 Person2_0 = new Person2();
+            Person2_0.FirstName = "Roc";
+            Person2_0.LastName = "Doe";
+            Address address = new Address();
+            address.City = "<UNK>";
+            address.Country = "UNK";
+            address.Region = "<UNK>";
+            Person2_0.Address = address;
+            Person2_0.Print();
+            Person2 Person2_1 = new Person2
+            {
+                 FirstName = "fhfh",
+                 LastName = "fhf4242h",
+                 Address = new  Address
+                 {
+                     Country = "12",
+                     City = "123",
+                     Region = "1324",
+                 }
+            };
+            Person2_1.Print();
+            Cat cat2 = new Cat("Barsik")
+            {
+                age = 9,
+            };
+            cat2.Print();
+            Cat cat3 = new Cat("Barsik")
+            {
+                Name = "NeBarsik",
+                age = 9,
+            }; //инициализации>конструктора класса
+            cat3.Print();
         }
     }
 }
