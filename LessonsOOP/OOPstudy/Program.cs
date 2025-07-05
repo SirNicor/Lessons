@@ -157,6 +157,14 @@
                 age = 9,
             }; //инициализации>конструктора класса
             cat3.Print();
+            
+            Person3 person3_0 = new Person3{FirstName = "KKK"};
+            person3_0.PrintName();
+            Student3 Student3_0 = new Student3{FirstName = "KK",  LastName = "KKr"};
+            Student3_0.PrintName();
+            Student3_0.Learn();
+            Person3 Student3_1 = new Student3();//все равно тип person3
+            Student3_1.PrintName(); 
         }
     }
 }
