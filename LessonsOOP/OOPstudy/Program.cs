@@ -119,6 +119,9 @@
 
             Person person1 = new Person("And", "Two");
             person1.Print();
+            
+            ReadOnlyClass ROC1 = new ReadOnlyClass(33);
+            ROC1.Method();
         }
     }
 }
