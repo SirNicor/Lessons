@@ -198,6 +198,11 @@
             Obj(p3d_1);
             Obj2(123);
             Obj(p3d_2);
+
+            A a = new A();
+            Console.WriteLine(a.publicField);
+            //Console.WrieLine(a.privateField) and Console.WrieLine(a.protectedField) невозможно обратиться 
+            
         }
     }
 }
