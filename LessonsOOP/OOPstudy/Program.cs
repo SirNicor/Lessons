@@ -11,6 +11,21 @@
 
     class Program
     {
+        static void Obj(object obj)
+        {
+            Point3d p = obj as Point3d; //возвращает null, если не Point
+            if(p != null)
+                p.Print();
+            else
+                Console.WriteLine("obj is null");
+        }
+        static void Obj2(object obj)
+        {
+            if(obj is Point3d p) //проверка на соответствие типов и возвращение при положительном результате в переменную
+                p.Print();
+            else
+                Console.WriteLine("obj is null");
+        }
         static Student GetStudent()
         {
             Student student = new Student();
@@ -171,6 +186,18 @@
             p3d_1.Print();
             Point3d p3d_2 = new Point3d(12, 12, 14);
             p3d_2.Print();
+            
+            object ob = "fjdfj";
+            Console.WriteLine(ob);
+            object ob2 = new Point3d(10, 12, 13);
+            Console.WriteLine(ob2);
+            ((Point3d)ob2).Print(); //только явное преобразование
+            var ob3 = new Point3d(12, 12, 14);
+            ob3.Print();
+            Obj(123);
+            Obj(p3d_1);
+            Obj2(123);
+            Obj(p3d_2);
         }
     }
 }
