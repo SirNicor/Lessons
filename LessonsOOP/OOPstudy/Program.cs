@@ -203,6 +203,9 @@
             Console.WriteLine(a.publicField);
             //Console.WrieLine(a.privateField) and Console.WrieLine(a.protectedField) невозможно обратиться 
             
+            Driver driver1 = new Driver();
+            driver1.Drive(new car());
+            driver1.Drive(new sportcar());
         }
     }
 }
