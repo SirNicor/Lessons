@@ -8,9 +8,17 @@
         public Colors color;
     }
 
-
     class Program
     {
+        static void OneInter(IInterfaceOne i)
+        {
+            i.Action();
+        }
+
+        static void TwoInter(IInterfaceTwo i)
+        {
+            i.Action();
+        }
         static void Obj(object obj)
         {
             Point3d p = obj as Point3d; //возвращает null, если не Point
@@ -234,6 +242,20 @@
                 dataProcessor.ProcessData(x);  
             }
             player.CheckInfo(new Box());
+            
+            Console.WriteLine();
+            MyClass1 myClass1_0 = new MyClass1();
+            OneInter(myClass1_0);
+            TwoInter(myClass1_0);
+            MyOtherClass myOtherClass1_0 = new MyOtherClass();
+            OneInter(myOtherClass1_0);
+            TwoInter(myOtherClass1_0);
+            ((IInterfaceOne)myOtherClass1_0).Action();
+            ((IInterfaceTwo)myOtherClass1_0).Action();
+            if (myOtherClass1_0 is IInterfaceTwo interfaceTwo)
+            {
+                interfaceTwo.Action();
+            }
         }
     }
 }
