@@ -1,0 +1,15 @@
+D:\LessonsRep\Lessons\Collections\List\bin\Debug\net9.0\List.exe
+D:\LessonsRep\Lessons\Collections\List\bin\Debug\net9.0\List.deps.json
+D:\LessonsRep\Lessons\Collections\List\bin\Debug\net9.0\List.runtimeconfig.json
+D:\LessonsRep\Lessons\Collections\List\bin\Debug\net9.0\List.dll
+D:\LessonsRep\Lessons\Collections\List\bin\Debug\net9.0\List.pdb
+D:\LessonsRep\Lessons\Collections\List\obj\Debug\net9.0\List.GeneratedMSBuildEditorConfig.editorconfig
+D:\LessonsRep\Lessons\Collections\List\obj\Debug\net9.0\List.AssemblyInfoInputs.cache
+D:\LessonsRep\Lessons\Collections\List\obj\Debug\net9.0\List.AssemblyInfo.cs
+D:\LessonsRep\Lessons\Collections\List\obj\Debug\net9.0\List.csproj.CoreCompileInputs.cache
+D:\LessonsRep\Lessons\Collections\List\obj\Debug\net9.0\List.sourcelink.json
+D:\LessonsRep\Lessons\Collections\List\obj\Debug\net9.0\List.dll
+D:\LessonsRep\Lessons\Collections\List\obj\Debug\net9.0\refint\List.dll
+D:\LessonsRep\Lessons\Collections\List\obj\Debug\net9.0\List.pdb
+D:\LessonsRep\Lessons\Collections\List\obj\Debug\net9.0\List.genruntimeconfig.cache
+D:\LessonsRep\Lessons\Collections\List\obj\Debug\net9.0\ref\List.dll
