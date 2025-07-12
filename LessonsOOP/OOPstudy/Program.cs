@@ -206,6 +206,20 @@
             Driver driver1 = new Driver();
             driver1.Drive(new car());
             driver1.Drive(new sportcar());
+
+            Console.WriteLine();
+            Gun1 gun1_0 = new Gun1();
+            Player player = new Player();
+            player.Fire(gun1_0);
+            Gun2 gun2_0 = new Gun2();
+            player.Fire(gun2_0);
+            Console.WriteLine();
+            Weapon[] inventory = { new Gun1(), new Gun2(), new Gun3() }; //можно использовать как тим данных для массива
+            foreach (var x in inventory)
+            {
+                player.Fire(x);
+                player.CheckInfo(x);
+            }
         }
     }
 }
