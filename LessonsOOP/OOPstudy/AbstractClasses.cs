@@ -23,6 +23,11 @@ interface IWeapon
     public abstract void Fire();
     public abstract int Damage { get; }
 }
+
+interface IInterface : IWeapon, IShowInfo //наследование интерфейса 
+//поддерживают множественное наследование
+{
+}
 abstract class Weapon : IShowInfo, IWeapon//нельзя создать экземпляр класса
 {
     //абстрактный метод только в абстрактных классах
