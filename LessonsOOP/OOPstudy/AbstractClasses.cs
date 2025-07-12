@@ -7,23 +7,32 @@ class Player
         weapon.Fire();
     }
 
-    public void CheckInfo(Weapon weapon)
+    public void CheckInfo(IShowInfo weapon)
     {
         weapon.ShowInfo();
     }
 }
 
-abstract class Weapon //нельзя создать экземпляр класса
+interface IShowInfo
+{
+    void ShowInfo();
+}
+
+interface IWeapon
+{
+    public abstract void Fire();
+    public abstract int Damage { get; }
+}
+abstract class Weapon : IShowInfo, IWeapon//нельзя создать экземпляр класса
 {
     //абстрактный метод только в абстрактных классах
     public abstract void Fire();
     public abstract int Damage { get; }
 
-public void ShowInfo()
-    {
-        Console.WriteLine(GetType().Name);
-    }
-    
+    public void ShowInfo()
+        {
+            Console.WriteLine(GetType().Name);
+        }
 }
 
 class Gun1 : Weapon
@@ -61,5 +70,13 @@ class Gun3 : Weapon
     public override void Fire()
     {
         Console.WriteLine("Gun3Fire " + Damage);
+    }
+}
+
+class Box : IShowInfo
+{
+    public void ShowInfo()
+    {
+        Console.WriteLine("Коробка");
     }
 }
